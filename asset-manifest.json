@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SerhiyPyatak/react-lessons/static/css/main.eb07335c.chunk.css",
+    "main.js": "/SerhiyPyatak/react-lessons/static/js/main.9532e420.chunk.js",
+    "main.js.map": "/SerhiyPyatak/react-lessons/static/js/main.9532e420.chunk.js.map",
+    "runtime-main.js": "/SerhiyPyatak/react-lessons/static/js/runtime-main.a72d09b7.js",
+    "runtime-main.js.map": "/SerhiyPyatak/react-lessons/static/js/runtime-main.a72d09b7.js.map",
+    "static/js/2.d50260e5.chunk.js": "/SerhiyPyatak/react-lessons/static/js/2.d50260e5.chunk.js",
+    "static/js/2.d50260e5.chunk.js.map": "/SerhiyPyatak/react-lessons/static/js/2.d50260e5.chunk.js.map",
+    "static/js/3.ceeff215.chunk.js": "/SerhiyPyatak/react-lessons/static/js/3.ceeff215.chunk.js",
+    "static/js/3.ceeff215.chunk.js.map": "/SerhiyPyatak/react-lessons/static/js/3.ceeff215.chunk.js.map",
+    "index.html": "/SerhiyPyatak/react-lessons/index.html",
+    "static/css/main.eb07335c.chunk.css.map": "/SerhiyPyatak/react-lessons/static/css/main.eb07335c.chunk.css.map",
+    "static/js/2.d50260e5.chunk.js.LICENSE.txt": "/SerhiyPyatak/react-lessons/static/js/2.d50260e5.chunk.js.LICENSE.txt",
+    "static/media/weather-icons.css": "/SerhiyPyatak/react-lessons/static/media/weathericons-regular-webfont.e218aee6.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a72d09b7.js",
+    "static/js/2.d50260e5.chunk.js",
+    "static/css/main.eb07335c.chunk.css",
+    "static/js/main.9532e420.chunk.js"
+  ]
+}
